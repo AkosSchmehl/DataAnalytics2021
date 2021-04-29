@@ -56,3 +56,4 @@ loans = loans.drop('Current Credit Balance', axis=1)
 loans = loans.drop('Maximum Open Credit', axis=1)
 loans = loans.drop('Tax Liens', axis=1)
 
+summary=loans["Purpose"].describe()
