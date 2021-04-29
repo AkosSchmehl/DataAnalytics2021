@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 28 14:40:08 2021
+
 
 @author: Ákos Schméhl
 """
